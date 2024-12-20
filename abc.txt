@@ -1,7 +1,4 @@
 this is naresh file
-<<<<<<< HEAD
 suraj the great
-
-=======
 naresh the great
->>>>>>> bb283e0d347da12f81e4cc8440382c36e2c9b582
+
